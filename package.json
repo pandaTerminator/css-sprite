@@ -1,0 +1,28 @@
+{
+  "name": "css-sprite",
+  "version": "1.0.0",
+  "description": "use gulp genrate sprite",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pandasjw/css-sprite.git"
+  },
+  "keywords": [
+    "css-sprite"
+  ],
+  "author": "pandasjw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandasjw/css-sprite/issues"
+  },
+  "homepage": "https://github.com/pandasjw/css-sprite#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp.spritesmith": "^6.2.1"
+  }
+}

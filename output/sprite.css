@@ -1,0 +1,78 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-1 {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 40px;
+  height: 40px;
+}
+.icon-10 {
+  background-image: url(sprite.png);
+  background-position: -40px 0px;
+  width: 40px;
+  height: 40px;
+}
+.icon-2 {
+  background-image: url(sprite.png);
+  background-position: 0px -40px;
+  width: 40px;
+  height: 40px;
+}
+.icon-3 {
+  background-image: url(sprite.png);
+  background-position: -40px -40px;
+  width: 40px;
+  height: 40px;
+}
+.icon-4 {
+  background-image: url(sprite.png);
+  background-position: -80px 0px;
+  width: 40px;
+  height: 40px;
+}
+.icon-5 {
+  background-image: url(sprite.png);
+  background-position: -80px -40px;
+  width: 40px;
+  height: 40px;
+}
+.icon-6 {
+  background-image: url(sprite.png);
+  background-position: 0px -80px;
+  width: 40px;
+  height: 40px;
+}
+.icon-7 {
+  background-image: url(sprite.png);
+  background-position: -40px -80px;
+  width: 40px;
+  height: 40px;
+}
+.icon-8 {
+  background-image: url(sprite.png);
+  background-position: -80px -80px;
+  width: 40px;
+  height: 40px;
+}
+.icon-9 {
+  background-image: url(sprite.png);
+  background-position: -120px 0px;
+  width: 40px;
+  height: 40px;
+}
